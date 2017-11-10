@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::available_since"
+msgid "Available since"
+msgstr "Дата доступности"
+
+msgctxt "Addons::description::available_since"
+msgid "Available since. Description."
+msgstr "Дата доступности. Описание."

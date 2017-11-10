@@ -1,0 +1,6 @@
+<div class="control-group">
+    <label class="control-label" for="elm_date_demo_avail_holder">{__("available_since")}:</label>
+    <div class="controls">
+        {include file="common/calendar.tpl" date_id="elm_date_demo_avail_holder" date_name="product_data[demo_avail_since]" date_val=$product_data.demo_avail_since|default:"" start_year=$settings.Company.company_start_year}
+    </div>
+</div>

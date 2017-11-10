@@ -1,0 +1,4 @@
+<div class="ty-control-group product-list-field">
+    <label class="ty-control-group__label">{__("available_since")}:</label>
+    <span class="ty-control-group__item" id="demo_avail_since_{$obj_prefix}{$obj_id}">{$product.demo_avail_since|date_format:$settings.Appearance.date_format}</span>
+</div>
